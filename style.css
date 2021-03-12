@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+
+ body {
+     background: linear-gradient(0deg, rgb(226, 116, 116), 50%, #DEEEFE);
+     font-family: 'Rubik', sans-serif;
+     background: #f1ee1b;
+     height: 100 !important
+ }
+ 
+ h1{
+    text-align:center;
+    color: rgb(223, 129, 14);
+    background:#627482;
+    border-radius: 3px;
+    
+    
+ }
+ 
+ 
+
+ .container-fluid {
+     overflow: hidden;
+     margin-top: 250px;
+     background: #262626;
+     color: #627482 !important;
+     margin-bottom: 0;
+     padding-bottom: 0
+ }
+
+ small {
+     font-size: calc(12px + (15 - 12) * ((100vw - 360px) / (1600 - 360))) !important
+ }
+
+ .bold-text {
+     color: #dabc15 !important
+ }
+
+ .mt-55 {
+     margin-top: calc(50px + (60 - 50) * ((100vw - 360px) / (1600 - 360))) !important
+ }
+
+ h3 {
+     font-size: calc(34px + (40 - 34) * ((100vw - 360px) / (1600 - 360))) !important
+ }
+
+ .social {
+     font-size: 21px !important
+ }
+
+ .rights {
+     font-size: calc(10px + (12 - 10) * ((100vw - 360px) / (1600 - 360))) !important
+ }
+ button{
+     background-color: rgb(35, 207, 101);
+ }
+ input{
+     background-color: rgb(81, 220, 224);
+ }
+ .material-icons{
+     font-size: 250px;
+     color: rgb(255, 255, 255);
+ }
+ img{
+     border-radius: 10px;
+     float: right;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+     margin-right: 5px;
+     opacity: 0.8;
+ }
+ .navbar{
+     background-color: cadetblue;
+ }
+ .fl{
+     float: left;
+ }
